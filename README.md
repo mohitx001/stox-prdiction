@@ -1,6 +1,9 @@
 # stox-prdiction
 
-1.this pyton file is ensoled with moving average and average of nifty 365 days.
-2. you have to upload a historical chart of nifty.
-3. you can get historical chart from NSE website.
-4.this file is open to use and modify
+this pyton file is ensoled with moving average and average of nifty 365 days.
+you have to upload a historical chart of nifty.
+you can get historical chart from NSE website.
+this file is open to use and modify
+Sample historical data file is added for your refrences.
+
+data.csv: historical file need to upload.
